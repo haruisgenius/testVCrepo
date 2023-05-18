@@ -1,0 +1,172 @@
+.header {
+  width: 100%;
+  padding-top: 60px;
+  padding-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(232, 173, 250);
+}
+.header .icon {
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+  background-image: url(./S__116834331.jpg);
+  background-position: center center;
+  background-size: contain;
+  background-color: palevioletred;
+}
+.header h1 {
+  font-family: system-ui;
+  margin: 16px;
+}
+.header h3 {
+  font-family: system-ui;
+  margin-top: 0px;
+}
+
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+.container .profile-area {
+  width: 100%;
+  margin: 60px 0;
+}
+.container .profile-area .profile-area-title {
+  width: 100%;
+  display: flex;
+  align-items: end;
+}
+.container .profile-area .profile-area-title h2 {
+  margin: 30px 10px 12px 10px;
+  font-family: system-ui;
+}
+.container .profile-area .profile-area-title h3 {
+  margin: 0 0 12px 10px;
+  font-family: system-ui;
+  color: rgb(184, 81, 215);
+}
+.container .profile-area hr {
+  height: 2px;
+  border: none;
+  margin-bottom: 36px;
+  background-color: rgb(184, 81, 215);
+}
+.container .profile-area .text-profile p {
+  font-family: system-ui;
+  font-size: 20px;
+}
+.container .profile-area .education-area-title {
+  width: 100%;
+  display: flex;
+  align-items: end;
+}
+.container .profile-area .education-area-title h2 {
+  margin: 30px 10px 12px 10px;
+  font-family: system-ui;
+}
+.container .profile-area .education-area-title h3 {
+  margin: 0 0 12px 10px;
+  font-family: system-ui;
+  color: rgb(184, 81, 215);
+}
+.container .profile-area hr {
+  height: 2px;
+  border: none;
+  background-color: rgb(184, 81, 215);
+}
+.container .profile-area .text-education p {
+  font-family: system-ui;
+  font-size: 20px;
+}
+
+.skill-area-container {
+  width: 100%;
+  background-color: rgb(232, 173, 250);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.skill-area-container .skill-area {
+  width: 960px;
+  margin: 0 auto;
+  padding: 30px 0;
+}
+.skill-area-container .skill-area .skill-area-title {
+  width: 960px;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+}
+.skill-area-container .skill-area .skill-area-title h2 {
+  margin: 30px 10px 12px 10px;
+  font-family: system-ui;
+}
+.skill-area-container .skill-area .skill-area-title h3 {
+  margin: 0 0 12px 10px;
+  font-family: system-ui;
+}
+.skill-area-container .skill-area hr {
+  height: 2px;
+  border: none;
+  margin-bottom: 36px;
+  background-color: rgb(184, 81, 215);
+}
+.skill-area-container .skill-area .text-skill {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.skill-area-container .skill-area .text-skill p {
+  font-family: system-ui;
+  font-size: 20px;
+}
+
+.container2 {
+  width: 960px;
+  margin: 0 auto;
+}
+.container2 .work-experience-area {
+  width: 100%;
+  margin: 60px 0;
+}
+.container2 .work-experience-area .experience-area-title {
+  display: flex;
+  align-items: end;
+}
+.container2 .work-experience-area .experience-area-title h2 {
+  margin: 30px 10px 12px 10px;
+  font-family: system-ui;
+}
+.container2 .work-experience-area .experience-area-title h3 {
+  margin: 0 0 12px 10px;
+  font-family: system-ui;
+  color: rgb(184, 81, 215);
+}
+.container2 .work-experience-area hr {
+  height: 2px;
+  border: none;
+  margin-bottom: 36px;
+  background-color: rgb(184, 81, 215);
+}
+.container2 .work-experience-area ul {
+  font-family: system-ui;
+}
+.container2 .work-experience-area li {
+  margin: 10px 0;
+  font-family: system-ui;
+  font-size: 22px;
+}
+.container2 .work-experience-area p {
+  margin: 0 10px;
+  font-family: system-ui;
+  font-size: 20px;
+  color: rgb(184, 81, 215);
+}
+.container2 .work-experience-area ol {
+  font-family: system-ui;
+  font-size: 18px;
+}/*# sourceMappingURL=index.css.map */
